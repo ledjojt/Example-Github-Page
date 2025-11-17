@@ -31,13 +31,13 @@
 ---
 
 ### 4. Synergy Basketball  
-**Link:** https://apps.synergysports.com/
-
-**Description:** Possession-level and play-type analytics, including pick-and-roll efficiency, isolation data, transition frequency. This requires a log-in that I have. 
+**Link:** https://apps.synergysports.com/  
+**Description:** Possession-level and play-type analytics, including pick-and-roll efficiency, isolation data, and transition frequency. This platform requires a login that I have access to.  
 
 **Project Ideas:**  
-- Comparing play-type efficiency across teams   
-- Identifying which actions generate the most points 
+- Comparing play-type efficiency across teams  
+- Identifying which actions generate the most points  
+ 
 
 ---
 
