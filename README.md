@@ -1,4 +1,4 @@
-# Welcome to My Example Page
+# Welcome to My Page
 
 This is a website built entirely with GitHub Pages and Markdown!
 
